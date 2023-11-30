@@ -1,8 +1,7 @@
 # Awesome-Games
 
 
-## Here you will find an awesome collection of games that i've made. Enjoy!
-
+## A hub to find the links to my online games!
 
 
 
