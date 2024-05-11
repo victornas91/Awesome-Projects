@@ -1,7 +1,7 @@
 # Awesome-Games
 
 
-## A hub to find the links to my online games!
+## A hub to showcase my games!
 
 
 
