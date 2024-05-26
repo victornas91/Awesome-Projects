@@ -1,7 +1,7 @@
-# Awesome-Games
+# Awesome Projects
 
 
-## A hub to showcase my games!
+## A hub to showcase all my projects!
 
 
 
