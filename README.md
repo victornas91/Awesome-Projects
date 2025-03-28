@@ -1,7 +1,7 @@
 # Awesome Projects
 
 
-## A hub to showcase all my projects!
+## A hub to showcase all my projects brought from my orgs!
 
 
 
